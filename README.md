@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sas0uk, my name is Christos - or Chris for short - and I'm from Greece!
 - 👀 I’m interested in networking, learning new stuff, meet people and have fun!
-- 🌱 I’m currently learning Angular, C#, U-SQL and Azure Cloud 
+- 🌱 I’m currently learning Angular, SCSS, Tailwind, and Typescript 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: You can msg me here !!! 
 
